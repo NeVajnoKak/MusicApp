@@ -11,7 +11,7 @@ import SwiftUI
 struct MusicAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(expendSheet: .constant(true), animation: Namespace().wrappedValue)
         }
     }
 }

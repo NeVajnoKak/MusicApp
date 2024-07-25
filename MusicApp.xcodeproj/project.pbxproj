@@ -11,6 +11,7 @@
 		0C14EE402C3588FF003D389B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C14EE3F2C3588FF003D389B /* ContentView.swift */; };
 		0C14EE422C358901003D389B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C14EE412C358901003D389B /* Assets.xcassets */; };
 		0C14EE452C358901003D389B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C14EE442C358901003D389B /* Preview Assets.xcassets */; };
+		0C14EE502C369467003D389B /* forest.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0C14EE4F2C369467003D389B /* forest.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0C14EE3F2C3588FF003D389B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0C14EE412C358901003D389B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0C14EE442C358901003D389B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0C14EE4F2C369467003D389B /* forest.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = forest.mp3; path = ../../../../../../Downloads/forest.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		0C14EE3C2C3588FF003D389B /* MusicApp */ = {
 			isa = PBXGroup;
 			children = (
+				0C14EE4F2C369467003D389B /* forest.mp3 */,
 				0C14EE3D2C3588FF003D389B /* MusicAppApp.swift */,
 				0C14EE3F2C3588FF003D389B /* ContentView.swift */,
 				0C14EE412C358901003D389B /* Assets.xcassets */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C14EE502C369467003D389B /* forest.mp3 in Resources */,
 				0C14EE452C358901003D389B /* Preview Assets.xcassets in Resources */,
 				0C14EE422C358901003D389B /* Assets.xcassets in Resources */,
 			);
